@@ -9,7 +9,7 @@ namespace BoatDamageFix
     public class Plugin : BaseUnityPlugin
     {
         public const string PLUGIN_ID = "com.nandbrew.boatdamagefix";
-        public const string PLUGIN_NAME = "Boat Damage Fix";
+        public const string PLUGIN_NAME = "Boat Update Hack";
         public const string PLUGIN_VERSION = "1.1.0";
 
         //--settings--
